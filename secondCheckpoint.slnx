@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="secondCheckpoint/secondCheckpoint.vcxproj" />
+  <Project Path="string_task/string_task.vcxproj" />
 </Solution>
